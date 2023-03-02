@@ -9,11 +9,11 @@
 ## Technologies
 
 ###
-C#
-ASP.NET Core
-MVC pattern
-Dependency Injection
-Options pattern
-Razor syntax
-JavaScript
-WebSocket
+* C#
+* ASP.NET Core
+* MVC pattern
+* Dependency Injection
+* Options pattern
+* Razor syntax
+* JavaScript
+* WebSocket
